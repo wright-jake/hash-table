@@ -35,5 +35,14 @@ There are a few scenarios where we might use these, i.e. when we need more infor
       #we can then use enumerate to return the index/count of iterations and the value associated with it
       for i, n in enumerate()
       
+      #we can check for a particular key in a hashmap
+      hashmap.keys()
+      
+      #we can check for a particular value in a hashmap
+      hashmap.values()
+      
+      #we can create a mapping 
+      hashmap[key] = value 
+      
 
 
